@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Gender,Age,City,State,Income,TotalPurchases,PurchaseFrequency,AverageOrderValue,LastPurchaseDays,PreferredCategory,CustomerLifetimeValue,FuturePurchase
+C001,Divya Verma,Female,18,Ahmedabad,Gujarat,146958,80,20,2582,36,Groceries,206560,6114.19
+C002,Sneha Yadav,Male,58,Ahmedabad,Gujarat,40795,24,2,3274,36,Groceries,78576,1775.86
+C003,Rohan Verma,Female,28,Ahmedabad,Gujarat,25860,84,6,3396,26,Electronics,285264,1784.97
+C004,Amit Jain,Female,49,Chennai,Tamil Nadu,128694,66,22,4685,43,Beauty,309210,6625.03
+C005,Neha Gupta,Female,33,Mumbai,Maharashtra,144879,154,11,1275,27,Electronics,196350,4280.42
+C006,Pooja Jain,Male,23,Mumbai,Maharashtra,135268,176,16,2125,69,Fashion,374000,4555.68
+C007,Rahul Yadav,Male,26,Lucknow,Uttar Pradesh,101820,64,16,3569,20,Electronics,228416,4662.55
+C008,Sneha Mehta,Female,31,Lucknow,Uttar Pradesh,79886,4,1,917,11,Electronics,3668,1271.76
+C009,Rohan Nair,Female,43,Chennai,Tamil Nadu,31265,54,9,614,74,Home & Kitchen,33156,1790.56
+C010,Yash Yadav,Female,25,Bengaluru,Karnataka,107386,36,6,1116,38,Sports,40176,3071.16
+C011,Pooja Patel,Female,19,Jaipur,Rajasthan,62194,48,16,4474,6,Groceries,214752,4256.03
+C012,Pooja Jain,Male,18,Kolkata,West Bengal,112498,39,3,3767,72,Beauty,146913,3629.05
+C013,Priya Singh,Male,20,Delhi,Delhi,137727,220,20,1325,23,Electronics,291500,5068.77
+C014,Rahul Yadav,Male,35,Bengaluru,Karnataka,69131,56,4,2016,47,Beauty,112896,2395.91
+C015,Rohan Yadav,Male,54,Lucknow,Uttar Pradesh,85263,133,19,3646,90,Sports,484918,4689.75
+C016,Riya Singh,Female,44,Kolkata,West Bengal,41023,18,3,912,46,Sports,16416,1188.16
+C017,Neha Patel,Female,40,Jaipur,Rajasthan,66090,133,19,1228,12,Electronics,163324,3147.12
+C018,Divya Kumar,Male,59,Hyderabad,Telangana,92221,40,20,3848,90,Fashion,153920,4960.11
+C019,Priya Joshi,Female,24,Delhi,Delhi,89820,42,7,3308,13,Electronics,138936,3694.15
+C020,Rohan Singh,Female,26,Jaipur,Rajasthan,25769,200,20,1175,62,Home & Kitchen,235000,2918.99
+C021,Sneha Mehta,Female,33,Hyderabad,Telangana,84735,117,9,3965,82,Groceries,463905,3504.68
+C022,Yash Yadav,Male,21,Delhi,Delhi,87955,11,1,3004,89,Fashion,33044,2682.78
+C023,Amit Patel,Male,28,Chennai,Tamil Nadu,89925,24,8,3467,60,Electronics,83208,3643.16
+C024,Riya Kumar,Male,43,Hyderabad,Telangana,146637,14,7,3286,43,Beauty,46004,4396.61
+C025,Sneha Joshi,Male,42,Mumbai,Maharashtra,92969,198,18,1622,76,Fashion,321156,3773.27
+C026,Yash Mehta,Female,53,Ahmedabad,Gujarat,30311,112,8,4579,68,Fashion,512848,3786.53
+C027,Arjun Singh,Female,31,Lucknow,Uttar Pradesh,128355,12,1,2071,5,Electronics,24852,2405.45
+C028,Priya Nair,Female,21,Mumbai,Maharashtra,129724,110,11,5573,37,Fashion,613030,5262.68
+C029,Riya Yadav,Male,21,Mumbai,Maharashtra,108104,198,18,5604,72,Beauty,1109592,5695.36
+C030,Rahul Verma,Male,56,Chennai,Tamil Nadu,78707,230,23,2643,31,Sports,607890,4509.66
+C031,Pooja Joshi,Male,54,Delhi,Delhi,110305,100,10,2187,9,Fashion,218700,3508.96
+C032,Priya Jain,Male,44,Jaipur,Rajasthan,53693,21,3,4632,51,Sports,97272,2793.59
+C033,Vikas Mehta,Male,60,Kolkata,West Bengal,96932,63,7,4351,29,Beauty,274113,3621.84
+C034,Pooja Mehta,Female,26,Bengaluru,Karnataka,118016,192,16,3940,78,Electronics,756480,5350.41
+C035,Yash Gupta,Male,18,Ahmedabad,Gujarat,131970,224,16,4266,40,Groceries,955584,5344.16
+C036,Neha Patel,Male,50,Lucknow,Uttar Pradesh,50658,40,20,2826,41,Fashion,113040,3746.59
+C037,Arjun Gupta,Male,33,Ahmedabad,Gujarat,109478,187,17,3414,86,Groceries,638418,4449.23
+C038,Anjali Verma,Female,52,Bengaluru,Karnataka,147537,10,2,5468,11,Beauty,54680,4548.7
+C039,Amit Kulkarni,Female,60,Ahmedabad,Gujarat,43431,2,1,5892,23,Fashion,11784,2387.63
+C040,Arjun Mehta,Male,24,Delhi,Delhi,27747,144,16,4452,1,Sports,641088,3989.33
+C041,Arjun Mehta,Female,56,Chennai,Tamil Nadu,148855,24,12,1095,46,Home & Kitchen,26280,4189.47
+C042,Vikas Singh,Female,50,Jaipur,Rajasthan,84150,20,5,1228,21,Groceries,24560,1993.44
+C043,Karan Sharma,Male,58,Lucknow,Uttar Pradesh,90725,70,5,1865,90,Fashion,130550,2880.85
+C044,Karan Sharma,Male,39,Hyderabad,Telangana,109654,115,23,4992,36,Groceries,574080,5636.67
+C045,Karan Verma,Female,53,Pune,Maharashtra,60773,81,9,1198,54,Fashion,97038,2499.83
+C046,Amit Patel,Male,27,Hyderabad,Telangana,144346,63,9,895,87,Electronics,56385,3546.18
+C047,Priya Gupta,Male,45,Chennai,Tamil Nadu,92435,33,3,4671,57,Sports,154143,3345.68
+C048,Priya Mehta,Female,20,Pune,Maharashtra,81886,247,19,4860,1,Groceries,1200420,4855.92
+C049,Rohan Kulkarni,Male,60,Bengaluru,Karnataka,91803,128,16,3002,63,Home & Kitchen,384256,4066.64
+C050,Meera Yadav,Female,57,Delhi,Delhi,56551,144,16,2319,54,Home & Kitchen,333936,4065.56
+C051,Pooja Verma,Male,44,Pune,Maharashtra,141216,9,3,1217,55,Beauty,10953,3268.74
+C052,Sneha Nair,Female,44,Mumbai,Maharashtra,36394,280,20,3282,40,Fashion,918960,4317.24
+C053,Karan Verma,Male,42,Jaipur,Rajasthan,94092,264,24,5446,15,Groceries,1437744,6479.43
+C054,Riya Singh,Male,47,Mumbai,Maharashtra,28890,264,22,4077,21,Beauty,1076328,4754.1
+C055,Anjali Singh,Male,19,Bengaluru,Karnataka,66606,216,24,5986,47,Groceries,1292976,5877.18
+C056,Nikhil Gupta,Female,22,Jaipur,Rajasthan,121276,4,1,643,73,Fashion,2572,2178.47
+C057,Meera Kulkarni,Female,52,Ahmedabad,Gujarat,105038,192,24,5480,53,Home & Kitchen,1052160,5931.82
+C058,Amit Patel,Female,29,Bengaluru,Karnataka,112313,80,20,3640,9,Electronics,291200,5331.79
+C059,Karan Sharma,Male,56,Kolkata,West Bengal,35627,88,11,4991,74,Home & Kitchen,439208,3956.28
+C060,Meera Nair,Female,45,Hyderabad,Telangana,33792,204,17,3438,52,Beauty,701352,3551.97
+C061,Neha Joshi,Male,34,Kolkata,West Bengal,133859,104,8,4136,57,Sports,430144,4722.43
+C062,Divya Sharma,Male,41,Mumbai,Maharashtra,133557,56,4,3722,26,Electronics,208432,3813.53
+C063,Rahul Kulkarni,Female,57,Hyderabad,Telangana,98969,18,6,1667,41,Beauty,30006,2372.37
+C064,Neha Nair,Female,50,Bengaluru,Karnataka,68001,88,8,3116,35,Fashion,274208,2738.42
+C065,Divya Gupta,Female,36,Ahmedabad,Gujarat,101552,140,20,1562,63,Electronics,218680,4745.77
+C066,Arjun Singh,Female,60,Chennai,Tamil Nadu,48897,12,3,2656,25,Beauty,31872,2188.81
+C067,Sneha Jain,Female,43,Hyderabad,Telangana,93148,64,16,5661,90,Fashion,362304,5329.1
+C068,Amit Mehta,Female,31,Chennai,Tamil Nadu,146729,30,3,5805,75,Home & Kitchen,174150,4510.48
+C069,Vikas Kumar,Female,46,Hyderabad,Telangana,149243,144,18,3482,38,Sports,501408,5680.52
+C070,Riya Nair,Male,60,Jaipur,Rajasthan,145923,84,14,3794,2,Fashion,318696,5460.83
+C071,Anjali Yadav,Female,23,Delhi,Delhi,145174,234,18,5229,7,Groceries,1223586,6610.52
+C072,Anjali Singh,Male,27,Jaipur,Rajasthan,48483,22,2,1656,82,Fashion,36432,2003.95
+C073,Priya Singh,Female,57,Mumbai,Maharashtra,149358,176,22,5834,34,Fashion,1026784,7033.86
+C074,Yash Joshi,Male,42,Delhi,Delhi,73555,30,3,1232,17,Sports,36960,1842.95
+C075,Nikhil Singh,Male,59,Lucknow,Uttar Pradesh,42159,32,16,4830,43,Groceries,154560,4286.76
+C076,Neha Joshi,Male,29,Mumbai,Maharashtra,135510,72,9,5346,59,Beauty,384912,5140.39
+C077,Yash Sharma,Male,25,Chennai,Tamil Nadu,131530,28,4,1453,51,Beauty,40684,3116.92
+C078,Arjun Kumar,Female,46,Lucknow,Uttar Pradesh,105077,11,1,3039,54,Fashion,33429,3152.2
+C079,Divya Yadav,Female,28,Kolkata,West Bengal,60920,52,4,3824,24,Groceries,198848,3366.93
+C080,Yash Mehta,Male,58,Lucknow,Uttar Pradesh,117067,10,1,3801,25,Groceries,38010,3144.78
+C081,Riya Kulkarni,Male,35,Ahmedabad,Gujarat,92121,28,14,2042,71,Sports,57176,4423.28
+C082,Rahul Nair,Female,33,Lucknow,Uttar Pradesh,94479,294,21,5793,52,Home & Kitchen,1703142,6316.41
+C083,Vikas Gupta,Male,26,Ahmedabad,Gujarat,114475,80,16,1691,70,Beauty,135280,4198.73
+C084,Pooja Joshi,Male,31,Pune,Maharashtra,44457,200,20,3493,88,Sports,698600,4738.97
+C085,Divya Joshi,Female,52,Delhi,Delhi,91557,120,24,3181,33,Electronics,381720,5872.4
+C086,Divya Sharma,Male,44,Lucknow,Uttar Pradesh,102189,88,8,1717,49,Beauty,151096,2955.7
+C087,Amit Jain,Female,48,Hyderabad,Telangana,134109,28,7,2040,29,Sports,57120,4085.3
+C088,Meera Mehta,Female,44,Mumbai,Maharashtra,103953,30,3,3736,63,Beauty,112080,3549.42
+C089,Pooja Kumar,Male,35,Chennai,Tamil Nadu,77995,238,17,2886,22,Home & Kitchen,686868,4930.59
+C090,Riya Sharma,Female,39,Hyderabad,Telangana,65757,3,1,4219,26,Electronics,12657,2455.79
+C091,Sneha Kumar,Male,57,Hyderabad,Telangana,34692,80,16,1888,28,Home & Kitchen,151040,2995.15
+C092,Amit Joshi,Male,23,Chennai,Tamil Nadu,70758,84,12,2356,85,Electronics,197904,2717.97
+C093,Arjun Kumar,Male,21,Hyderabad,Telangana,97409,57,19,1865,49,Fashion,106305,4565.24
+C094,Nikhil Gupta,Male,47,Ahmedabad,Gujarat,96211,198,22,999,71,Sports,197802,4545.39
+C095,Vikas Joshi,Female,44,Bengaluru,Karnataka,90697,207,23,2180,81,Electronics,451260,4714.56
+C096,Rahul Kumar,Male,52,Ahmedabad,Gujarat,62065,44,22,1010,84,Home & Kitchen,44440,3899.92
+C097,Meera Singh,Male,59,Mumbai,Maharashtra,117093,182,14,4812,49,Beauty,875784,4727.23
+C098,Amit Singh,Male,19,Mumbai,Maharashtra,124299,24,6,1824,20,Electronics,43776,3582.42
+C099,Arjun Singh,Male,48,Kolkata,West Bengal,57606,66,6,1655,86,Sports,109230,2016.43
+C100,Rohan Kumar,Female,41,Delhi,Delhi,36534,130,13,2327,63,Electronics,302510,3850.67
+C101,Neha Verma,Female,24,Pune,Maharashtra,119663,114,19,3641,61,Groceries,415074,5296.61
+C102,Amit Mehta,Female,43,Kolkata,West Bengal,65397,154,22,3986,49,Beauty,613844,4788.17
+C103,Rahul Jain,Male,24,Jaipur,Rajasthan,116387,40,8,2310,71,Sports,92400,3390.61
+C104,Neha Jain,Male,40,Ahmedabad,Gujarat,26016,22,2,3423,1,Sports,75306,1404.7
+C105,Divya Kulkarni,Female,22,Chennai,Tamil Nadu,114789,63,21,5801,13,Fashion,365463,6416.87
+C106,Vikas Sharma,Female,49,Chennai,Tamil Nadu,80591,12,1,2714,87,Home & Kitchen,32568,2152.8
+C107,Divya Gupta,Female,27,Delhi,Delhi,114812,135,15,4686,51,Fashion,632610,5501.66
+C108,Sneha Nair,Female,57,Hyderabad,Telangana,48247,12,1,1213,56,Sports,14556,1185.83
+C109,Riya Kumar,Female,55,Chennai,Tamil Nadu,49300,70,5,4102,83,Beauty,287140,3190.53
+C110,Vikas Singh,Male,35,Ahmedabad,Gujarat,99065,112,16,4634,62,Electronics,519008,5255.11
+C111,Pooja Kumar,Female,39,Lucknow,Uttar Pradesh,107798,114,19,4022,32,Electronics,458508,5313.25
+C112,Riya Gupta,Male,49,Mumbai,Maharashtra,34268,40,4,4768,30,Beauty,190720,3136.89
+C113,Meera Mehta,Female,35,Jaipur,Rajasthan,111807,6,3,5248,29,Sports,31488,4159.59
+C114,Karan Yadav,Male,51,Kolkata,West Bengal,37185,102,17,5349,49,Electronics,545598,5353.79
+C115,Rahul Singh,Female,49,Jaipur,Rajasthan,88704,119,17,1743,45,Electronics,207417,3857.77
+C116,Pooja Nair,Female,59,Chennai,Tamil Nadu,111779,72,12,4209,30,Electronics,303048,4612.82
+C117,Yash Sharma,Male,36,Lucknow,Uttar Pradesh,64099,98,14,1581,16,Home & Kitchen,154938,3665.45
+C118,Nikhil Nair,Male,37,Jaipur,Rajasthan,33571,147,21,955,40,Home & Kitchen,140385,2894.75
+C119,Meera Kumar,Female,45,Kolkata,West Bengal,148372,48,6,5424,19,Groceries,260352,5239.06
+C120,Vikas Gupta,Female,35,Chennai,Tamil Nadu,130512,15,3,1394,18,Fashion,20910,2937.37
+C121,Karan Singh,Male,30,Ahmedabad,Gujarat,63044,108,9,1884,1,Beauty,203472,2418.6
+C122,Neha Nair,Male,30,Bengaluru,Karnataka,76214,45,5,2458,78,Beauty,110610,2194.6
+C123,Riya Mehta,Female,24,Jaipur,Rajasthan,86228,192,24,3572,47,Beauty,685824,5221.87
+C124,Anjali Singh,Female,29,Jaipur,Rajasthan,139752,170,17,2496,66,Groceries,424320,4324.43
+C125,Amit Nair,Male,35,Ahmedabad,Gujarat,73984,112,14,4785,38,Home & Kitchen,535920,4317.65
+C126,Priya Yadav,Female,26,Mumbai,Maharashtra,65774,84,21,1004,51,Sports,84336,4044.78
+C127,Neha Sharma,Female,48,Lucknow,Uttar Pradesh,27568,12,3,1714,63,Sports,20568,1230.53
+C128,Yash Gupta,Male,21,Lucknow,Uttar Pradesh,145151,9,1,2031,4,Groceries,18279,3424.61
+C129,Riya Patel,Male,43,Ahmedabad,Gujarat,87592,120,20,3940,1,Sports,472800,5590.86
+C130,Rahul Jain,Male,27,Lucknow,Uttar Pradesh,92563,105,21,1323,8,Beauty,138915,4754.19
+C131,Anjali Patel,Male,25,Pune,Maharashtra,27695,207,23,1428,29,Fashion,295596,3744.42
+C132,Divya Jain,Male,51,Chennai,Tamil Nadu,149375,7,1,5529,55,Electronics,38703,3598.37
+C133,Yash Kumar,Female,55,Hyderabad,Telangana,73190,9,3,5736,3,Home & Kitchen,51624,3254.34
+C134,Anjali Jain,Male,57,Hyderabad,Telangana,30258,90,18,633,32,Home & Kitchen,56970,2792.81
+C135,Rohan Kulkarni,Male,34,Delhi,Delhi,112538,130,10,2605,10,Groceries,338650,3531.66
+C136,Sneha Singh,Male,53,Delhi,Delhi,64504,264,22,4127,74,Home & Kitchen,1089528,5010.16
+C137,Sneha Sharma,Female,46,Delhi,Delhi,58159,15,3,5280,83,Beauty,79200,3563.41
+C138,Riya Mehta,Male,32,Kolkata,West Bengal,38986,56,8,2352,34,Sports,131712,1874.26
+C139,Anjali Nair,Female,22,Ahmedabad,Gujarat,86858,98,14,5410,87,Beauty,530180,5419.88
+C140,Karan Kulkarni,Male,45,Jaipur,Rajasthan,37666,48,24,5768,55,Groceries,276864,5729.21
+C141,Pooja Kulkarni,Male,35,Delhi,Delhi,63660,162,18,4675,32,Beauty,757350,4831.62
+C142,Rahul Sharma,Male,37,Pune,Maharashtra,28561,105,15,3433,50,Sports,360465,3215.88
+C143,Anjali Kumar,Male,47,Kolkata,West Bengal,51854,88,22,3784,7,Fashion,332992,4480.02
+C144,Nikhil Mehta,Female,46,Ahmedabad,Gujarat,89505,230,23,4798,8,Groceries,1103540,5294.01
+C145,Priya Joshi,Female,56,Delhi,Delhi,129488,6,2,3311,65,Fashion,19866,3856.2
+C146,Amit Patel,Male,54,Ahmedabad,Gujarat,77251,120,10,5848,57,Electronics,701760,4866.85
+C147,Amit Kulkarni,Female,54,Kolkata,West Bengal,47662,18,2,1750,67,Fashion,31500,1145.54
+C148,Sneha Kumar,Female,35,Mumbai,Maharashtra,33392,187,17,4012,88,Electronics,750244,3779.29
+C149,Divya Kulkarni,Female,23,Pune,Maharashtra,55535,32,8,1756,87,Electronics,56192,2537.57
+C150,Meera Joshi,Female,38,Lucknow,Uttar Pradesh,103603,14,1,3876,59,Fashion,54264,2940.79
+C151,Sneha Gupta,Female,49,Delhi,Delhi,138569,117,9,5762,72,Groceries,674154,4599.63
+C152,Nikhil Yadav,Male,47,Ahmedabad,Gujarat,77256,66,11,3986,54,Sports,263076,3676.61
+C153,Vikas Mehta,Female,25,Delhi,Delhi,114135,154,22,4084,67,Beauty,628936,6366.74
+C154,Amit Kulkarni,Female,44,Hyderabad,Telangana,60222,176,16,1896,51,Beauty,333696,3309.94
+C155,Rohan Yadav,Female,57,Mumbai,Maharashtra,102373,49,7,4137,8,Sports,202713,3774.5
+C156,Yash Sharma,Male,35,Lucknow,Uttar Pradesh,104575,50,10,3830,34,Electronics,191500,3765.57
+C157,Arjun Mehta,Female,49,Chennai,Tamil Nadu,148684,92,23,3203,35,Electronics,294676,6287.64
+C158,Amit Kulkarni,Male,28,Delhi,Delhi,121354,15,3,970,88,Groceries,14550,2554.36
+C159,Amit Yadav,Female,23,Ahmedabad,Gujarat,109651,36,18,5631,78,Home & Kitchen,202716,5553.01
+C160,Neha Kumar,Male,59,Jaipur,Rajasthan,88335,120,24,1853,32,Fashion,222360,4462.18
+C161,Riya Nair,Female,50,Pune,Maharashtra,35965,26,13,3283,46,Electronics,85358,3669.89
+C162,Divya Kumar,Female,33,Ahmedabad,Gujarat,49538,91,7,3331,16,Beauty,303121,2267.26
+C163,Arjun Joshi,Male,56,Lucknow,Uttar Pradesh,133066,8,4,5563,68,Groceries,44504,4574.18
+C164,Arjun Patel,Female,44,Chennai,Tamil Nadu,95592,143,13,857,37,Fashion,122551,2647.67
+C165,Karan Sharma,Female,37,Bengaluru,Karnataka,123018,140,20,3519,54,Groceries,492660,5689.08
+C166,Riya Verma,Female,52,Kolkata,West Bengal,138252,6,1,1167,85,Fashion,7002,2893.32
+C167,Meera Gupta,Female,47,Lucknow,Uttar Pradesh,33110,96,8,4968,14,Fashion,476928,3523.89
+C168,Rohan Nair,Male,54,Bengaluru,Karnataka,104309,70,14,5627,55,Sports,393890,5165.72
+C169,Pooja Joshi,Male,38,Hyderabad,Telangana,52266,224,16,1645,48,Electronics,368480,3754.94
+C170,Nikhil Joshi,Male,49,Lucknow,Uttar Pradesh,77992,168,14,5967,82,Groceries,1002456,5630.67
+C171,Arjun Yadav,Female,24,Mumbai,Maharashtra,107948,48,12,4685,7,Groceries,224880,4602.48
+C172,Neha Yadav,Female,18,Lucknow,Uttar Pradesh,147073,38,19,4219,74,Sports,160322,5827.44
+C173,Divya Kulkarni,Male,22,Pune,Maharashtra,123806,161,23,3245,7,Beauty,522445,5797.59
+C174,Karan Gupta,Female,59,Lucknow,Uttar Pradesh,31910,45,15,1039,33,Beauty,46755,2499.0
+C175,Vikas Kulkarni,Female,38,Delhi,Delhi,135989,18,2,3279,23,Electronics,59022,3240.32
+C176,Priya Jain,Male,33,Lucknow,Uttar Pradesh,115982,22,2,5464,85,Electronics,120208,3731.11
+C177,Pooja Nair,Male,45,Ahmedabad,Gujarat,146626,138,23,4636,19,Home & Kitchen,639768,7096.72
+C178,Neha Kumar,Male,37,Delhi,Delhi,144176,176,22,5335,19,Sports,938960,6901.45
+C179,Priya Gupta,Male,36,Mumbai,Maharashtra,25206,209,19,4275,36,Beauty,893475,4010.06
+C180,Meera Joshi,Male,33,Bengaluru,Karnataka,112054,286,22,5820,29,Fashion,1664520,5621.27
+C181,Divya Jain,Male,28,Chennai,Tamil Nadu,112897,66,22,5524,60,Groceries,364584,5803.52
+C182,Rahul Jain,Female,57,Pune,Maharashtra,147409,238,17,3008,82,Electronics,715904,5454.96
+C183,Riya Jain,Male,32,Jaipur,Rajasthan,48419,180,20,3279,2,Groceries,590220,3637.47
+C184,Karan Kumar,Female,60,Lucknow,Uttar Pradesh,75636,30,10,1424,1,Groceries,42720,2920.84
+C185,Yash Mehta,Male,22,Mumbai,Maharashtra,147546,30,6,3456,47,Home & Kitchen,103680,3823.12
+C186,Meera Jain,Female,58,Lucknow,Uttar Pradesh,139238,30,15,2081,69,Beauty,62430,4644.46
+C187,Karan Kumar,Female,30,Hyderabad,Telangana,75015,132,22,3824,20,Electronics,504768,5122.78
+C188,Riya Patel,Male,42,Hyderabad,Telangana,142478,110,11,4985,11,Groceries,548350,5238.1
+C189,Meera Jain,Female,36,Kolkata,West Bengal,147096,10,5,755,2,Electronics,7550,2952.36
+C190,Nikhil Mehta,Male,54,Mumbai,Maharashtra,132059,10,1,5304,67,Fashion,53040,3829.1
+C191,Riya Mehta,Male,56,Mumbai,Maharashtra,79268,96,8,2338,87,Home & Kitchen,224448,2751.08
+C192,Pooja Kulkarni,Male,57,Bengaluru,Karnataka,135687,189,21,2444,12,Fashion,461916,5555.87
+C193,Arjun Kulkarni,Male,58,Ahmedabad,Gujarat,112939,84,12,509,20,Electronics,42756,3553.79
+C194,Anjali Kumar,Male,55,Mumbai,Maharashtra,43141,96,12,3371,5,Electronics,323616,2901.27
+C195,Arjun Patel,Female,38,Bengaluru,Karnataka,105356,20,5,1297,37,Beauty,25940,2618.8
+C196,Sneha Singh,Male,52,Hyderabad,Telangana,130878,14,7,5472,38,Groceries,76608,4777.34
+C197,Karan Verma,Female,48,Bengaluru,Karnataka,96910,24,4,5624,9,Groceries,134976,3957.18
+C198,Vikas Patel,Female,22,Ahmedabad,Gujarat,81044,78,6,1515,53,Fashion,118170,2515.94
+C199,Pooja Kulkarni,Female,53,Pune,Maharashtra,92214,169,13,2324,44,Home & Kitchen,392756,3636.0
+C200,Rahul Joshi,Male,34,Bengaluru,Karnataka,142930,60,20,4969,86,Sports,298140,6366.81
+C201,Neha Kumar,Female,34,Chennai,Tamil Nadu,144324,90,15,3636,24,Groceries,327240,5422.87
+C202,Nikhil Kulkarni,Female,24,Kolkata,West Bengal,58827,27,3,2693,81,Beauty,72711,2227.27
+C203,Riya Sharma,Female,57,Jaipur,Rajasthan,80820,276,23,723,74,Fashion,199548,4377.13
+C204,Rahul Kulkarni,Female,37,Jaipur,Rajasthan,87623,80,8,5858,30,Fashion,468640,4621.75
+C205,Neha Verma,Male,20,Hyderabad,Telangana,106734,60,20,5448,59,Sports,326880,5352.53
+C206,Riya Patel,Male,33,Ahmedabad,Gujarat,100450,208,16,4658,87,Beauty,968864,5340.09
+C207,Arjun Joshi,Female,41,Chennai,Tamil Nadu,118426,52,13,5836,81,Home & Kitchen,303472,5481.72
+C208,Divya Jain,Male,44,Chennai,Tamil Nadu,142845,72,18,4425,81,Beauty,318600,5517.94
+C209,Riya Jain,Female,35,Delhi,Delhi,47299,20,10,5284,14,Home & Kitchen,105680,3999.63
+C210,Meera Singh,Female,46,Mumbai,Maharashtra,68585,171,19,4500,9,Beauty,769500,4764.28
+C211,Meera Patel,Female,52,Jaipur,Rajasthan,134225,119,17,2133,40,Beauty,253827,4721.34
+C212,Priya Joshi,Female,30,Bengaluru,Karnataka,89044,312,24,2652,66,Electronics,827424,4991.56
+C213,Yash Patel,Male,59,Delhi,Delhi,67557,266,19,1010,25,Fashion,268660,3737.57
+C214,Amit Sharma,Female,33,Kolkata,West Bengal,74080,207,23,884,73,Beauty,182988,3944.99
+C215,Rohan Patel,Male,55,Pune,Maharashtra,134556,60,5,904,22,Sports,54240,3205.18
+C216,Pooja Gupta,Male,56,Jaipur,Rajasthan,27693,210,21,5113,4,Beauty,1073730,4683.29
+C217,Karan Verma,Male,52,Mumbai,Maharashtra,120003,138,23,5071,26,Groceries,699798,6225.63
+C218,Sneha Patel,Male,26,Ahmedabad,Gujarat,120259,117,9,2500,58,Fashion,292500,3984.75
+C219,Meera Singh,Female,19,Mumbai,Maharashtra,137235,48,12,3256,29,Groceries,156288,4542.26
+C220,Karan Sharma,Male,44,Pune,Maharashtra,94163,126,21,2168,87,Fashion,273168,4975.7
+C221,Neha Nair,Male,48,Chennai,Tamil Nadu,50939,6,1,1960,37,Groceries,11760,1863.96
+C222,Meera Yadav,Male,46,Lucknow,Uttar Pradesh,73925,6,1,4136,75,Beauty,24816,2276.03
+C223,Pooja Jain,Male,60,Chennai,Tamil Nadu,67941,60,15,3224,70,Beauty,193440,4280.29
+C224,Anjali Kumar,Male,21,Chennai,Tamil Nadu,46834,24,2,5309,18,Electronics,127416,2362.05
+C225,Nikhil Joshi,Male,49,Lucknow,Uttar Pradesh,43047,242,22,4678,85,Sports,1132076,5274.48
+C226,Rahul Patel,Female,56,Lucknow,Uttar Pradesh,51105,80,16,5764,42,Groceries,461120,5312.48
+C227,Rahul Verma,Female,57,Pune,Maharashtra,100766,80,8,2548,41,Home & Kitchen,203840,3625.74
+C228,Vikas Joshi,Female,47,Kolkata,West Bengal,40707,182,13,4646,38,Electronics,845572,3149.61
+C229,Divya Patel,Male,59,Chennai,Tamil Nadu,46976,231,21,5280,34,Groceries,1219680,5391.71
+C230,Rohan Joshi,Female,32,Chennai,Tamil Nadu,69262,10,1,1216,17,Groceries,12160,2258.37
+C231,Vikas Kumar,Female,44,Hyderabad,Telangana,48776,48,16,5044,37,Electronics,242112,4326.13
+C232,Vikas Joshi,Female,60,Delhi,Delhi,55080,63,7,5476,25,Beauty,344988,3572.39
+C233,Meera Verma,Female,22,Ahmedabad,Gujarat,91842,45,5,5083,76,Groceries,228735,3400.13
+C234,Rahul Patel,Female,24,Delhi,Delhi,86373,176,22,2323,87,Beauty,408848,4842.27
+C235,Arjun Yadav,Male,55,Bengaluru,Karnataka,31776,207,23,2581,86,Electronics,534267,4520.74
+C236,Vikas Kulkarni,Male,44,Chennai,Tamil Nadu,117787,12,3,3919,85,Beauty,47028,3707.78
+C237,Divya Nair,Male,36,Bengaluru,Karnataka,80016,168,12,2074,27,Fashion,348432,4308.73
+C238,Anjali Gupta,Male,54,Kolkata,West Bengal,34474,112,16,749,57,Home & Kitchen,83888,2709.17
+C239,Rohan Verma,Female,32,Chennai,Tamil Nadu,130830,38,19,1173,31,Groceries,44574,4163.8
+C240,Meera Yadav,Female,25,Delhi,Delhi,83053,40,5,5033,6,Sports,201320,3658.64
+C241,Pooja Joshi,Male,56,Ahmedabad,Gujarat,46959,44,22,2665,40,Home & Kitchen,117260,3552.2
+C242,Amit Verma,Female,37,Ahmedabad,Gujarat,30530,140,14,1270,12,Beauty,177800,2422.52
+C243,Meera Sharma,Male,27,Bengaluru,Karnataka,119856,10,5,4462,53,Groceries,44620,4446.85
+C244,Nikhil Patel,Male,58,Kolkata,West Bengal,144101,30,15,4863,71,Beauty,145890,5761.11
+C245,Rahul Nair,Male,42,Mumbai,Maharashtra,28748,136,17,2484,10,Fashion,337824,3394.45
+C246,Yash Gupta,Male,41,Hyderabad,Telangana,122504,42,14,1577,45,Electronics,66234,4615.74
+C247,Vikas Jain,Male,21,Ahmedabad,Gujarat,123098,120,20,735,17,Groceries,88200,4422.54
+C248,Sneha Jain,Male,23,Pune,Maharashtra,38545,45,5,888,26,Fashion,39960,1867.52
+C249,Yash Kulkarni,Female,49,Ahmedabad,Gujarat,91199,108,12,3537,85,Fashion,381996,4084.73
+C250,Yash Joshi,Female,31,Kolkata,West Bengal,59766,64,16,5358,62,Groceries,342912,4805.8
+C251,Neha Gupta,Female,25,Chennai,Tamil Nadu,98530,128,16,2348,46,Beauty,300544,3854.56
+C252,Riya Yadav,Female,20,Ahmedabad,Gujarat,118557,84,21,5219,64,Sports,438396,5980.39
+C253,Nikhil Jain,Male,18,Jaipur,Rajasthan,86087,49,7,3314,2,Fashion,162386,2871.95
+C254,Anjali Singh,Male,34,Jaipur,Rajasthan,120839,28,4,3874,54,Home & Kitchen,108472,3619.91
+C255,Vikas Patel,Male,49,Ahmedabad,Gujarat,141183,4,1,3778,65,Fashion,15112,3677.17
+C256,Sneha Verma,Female,52,Hyderabad,Telangana,93840,40,5,1752,51,Sports,70080,2287.79
+C257,Meera Patel,Female,20,Jaipur,Rajasthan,143451,92,23,4481,53,Beauty,412252,7094.87
+C258,Amit Kumar,Male,38,Hyderabad,Telangana,79384,90,10,5173,36,Beauty,465570,4284.74
+C259,Divya Jain,Female,58,Kolkata,West Bengal,76005,242,22,2622,26,Home & Kitchen,634524,4715.11
+C260,Anjali Patel,Female,19,Hyderabad,Telangana,71576,25,5,5030,29,Fashion,125750,3665.04
+C261,Sneha Jain,Female,41,Bengaluru,Karnataka,64353,56,4,2650,21,Beauty,148400,2124.12
+C262,Divya Patel,Male,45,Delhi,Delhi,87003,4,2,5359,11,Sports,21436,3469.74
+C263,Nikhil Yadav,Male,43,Kolkata,West Bengal,108211,100,20,1829,40,Groceries,182900,4448.26
+C264,Vikas Singh,Female,28,Ahmedabad,Gujarat,77733,80,10,1858,11,Electronics,148640,3483.9
+C265,Neha Yadav,Male,40,Delhi,Delhi,90318,228,19,2982,36,Electronics,679896,4360.88
+C266,Arjun Singh,Male,27,Bengaluru,Karnataka,134953,5,1,5042,59,Electronics,25210,3927.94
+C267,Rohan Verma,Male,59,Ahmedabad,Gujarat,114474,336,24,2517,39,Fashion,845712,5576.85
+C268,Sneha Kulkarni,Female,47,Delhi,Delhi,48664,35,5,1831,54,Home & Kitchen,64085,2089.26
+C269,Yash Kulkarni,Female,58,Kolkata,West Bengal,92172,130,13,4844,55,Beauty,629720,4463.61
+C270,Arjun Kumar,Male,48,Bengaluru,Karnataka,110616,8,4,4761,24,Groceries,38088,3536.94
+C271,Anjali Mehta,Male,40,Lucknow,Uttar Pradesh,118264,224,16,1858,22,Sports,416192,4174.22
+C272,Rahul Mehta,Female,46,Chennai,Tamil Nadu,140386,144,24,5615,69,Groceries,808560,7109.54
+C273,Priya Gupta,Female,22,Mumbai,Maharashtra,51736,192,16,5137,56,Sports,986304,4450.84
+C274,Nikhil Kumar,Male,46,Delhi,Delhi,119209,184,23,5354,33,Fashion,985136,6660.9
+C275,Rohan Gupta,Female,50,Kolkata,West Bengal,128041,4,2,3677,36,Electronics,14708,3590.67
+C276,Priya Kumar,Male,39,Pune,Maharashtra,137859,85,17,2628,20,Fashion,223380,4344.61
+C277,Sneha Sharma,Male,46,Delhi,Delhi,137181,140,20,2680,83,Home & Kitchen,375200,5469.96
+C278,Sneha Gupta,Female,36,Lucknow,Uttar Pradesh,25854,72,24,5392,81,Home & Kitchen,388224,5830.15
+C279,Divya Gupta,Male,58,Hyderabad,Telangana,115084,132,12,637,62,Sports,84084,3786.79
+C280,Rahul Gupta,Male,53,Bengaluru,Karnataka,63623,108,18,3972,73,Beauty,428976,4631.15
+C281,Anjali Mehta,Male,39,Hyderabad,Telangana,32392,36,3,5949,26,Beauty,214164,2610.21
+C282,Arjun Gupta,Female,59,Delhi,Delhi,80680,11,1,3332,66,Sports,36652,2639.67
+C283,Arjun Jain,Male,37,Hyderabad,Telangana,71717,2,1,4079,73,Home & Kitchen,8158,2845.33
+C284,Nikhil Kulkarni,Female,26,Chennai,Tamil Nadu,144937,133,19,3531,73,Home & Kitchen,469623,5613.78
+C285,Rahul Kulkarni,Female,50,Chennai,Tamil Nadu,112092,77,11,4664,40,Home & Kitchen,359128,4728.8
+C286,Amit Gupta,Female,29,Bengaluru,Karnataka,75859,70,5,3093,17,Fashion,216510,3273.33
+C287,Vikas Kumar,Male,32,Jaipur,Rajasthan,129095,60,12,4800,1,Home & Kitchen,288000,4799.24
+C288,Arjun Patel,Female,24,Pune,Maharashtra,51309,42,3,4318,89,Groceries,181356,2323.45
+C289,Priya Kulkarni,Female,57,Chennai,Tamil Nadu,112455,9,1,4638,61,Electronics,41742,3637.93
+C290,Nikhil Verma,Male,29,Pune,Maharashtra,88734,5,1,4323,43,Home & Kitchen,21615,3101.32
+C291,Sneha Nair,Female,20,Kolkata,West Bengal,95467,72,8,4542,42,Sports,327024,4290.36
+C292,Meera Kulkarni,Male,46,Hyderabad,Telangana,77662,140,10,2406,25,Electronics,336840,3377.97
+C293,Anjali Nair,Female,32,Kolkata,West Bengal,123506,99,11,1260,39,Fashion,124740,3443.26
+C294,Pooja Mehta,Female,30,Chennai,Tamil Nadu,134751,72,12,3945,35,Sports,284040,4971.67
+C295,Yash Kumar,Female,42,Bengaluru,Karnataka,143906,182,13,1399,3,Electronics,254618,3865.6
+C296,Divya Verma,Male,56,Chennai,Tamil Nadu,37688,60,12,4955,44,Sports,297300,3664.47
+C297,Karan Sharma,Female,41,Pune,Maharashtra,50342,182,14,3447,51,Fashion,627354,3792.42
+C298,Neha Nair,Male,36,Chennai,Tamil Nadu,62157,28,2,2219,12,Groceries,62132,1840.85
+C299,Sneha Mehta,Female,50,Delhi,Delhi,92863,57,19,780,19,Fashion,44460,4686.36
+C300,Divya Patel,Male,46,Pune,Maharashtra,131308,216,18,3766,44,Fashion,813456,4880.06
